@@ -129,7 +129,7 @@ $num_total_rows = $row['total_contenedores'];
   <section class="py-3 text-center container">
     <div class="row py-lg-5">
       <div class="col-lg-7 col-md-9 mx-auto">
-        <h1 class="fw-light">Sistema de control y monitoreo en vivo</h1>
+        <h1 class="fw-light">Sistema de control y monitoreo en vivo V2</h1>
       </div>
     </div>
   </section>
